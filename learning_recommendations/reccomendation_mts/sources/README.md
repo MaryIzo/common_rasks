@@ -1,0 +1,40 @@
+### google developers
+https://developers.google.com/machine-learning/recommendation/ 
+
+### ods ссылка 
+https://ods.ai/tracks/recsys-course2021
+
+### kaggle for first introduction
+https://vk.com/away.php?to=https%3A%2F%2Fwww.kaggle.com%2Fsharthz23%2Fimplicit-lightfm%2Fdata&cc_key=
+
+### мтс. рекомендаетльные системы. метрики и бейзлайны.
+https://www.kaggle.com/sharthz23/metrics-validation-strategies-and-baselines/notebook
+
+### Second git репозиторий с кодом
+https://github.com/sharthZ23/your-second-recsys
+
+
+### Рекомендательные системы, lightfm, ссылки от Артема
+
+https://towardsdatascience.com/how-i-would-explain-building-lightfm-hybrid-recommenders-to-a-5-year-old-b6ee18571309
+
+https://stackoverflow.com/questions/46924119/lightfm-handling-user-and-item-cold-start
+
+https://www.ethanrosenthal.com/2016/11/07/implicit-mf-part-2/
+
+https://www.kaggle.com/niyamatalmass/lightfm-hybrid-recommendation-system/notebook
+
+### Ссылки:
+https://habr.com/ru/company/ods/blog/329410/
+https://www.kaggle.com/sharthz23/pandas-scipy-for-recsys
+https://www.kaggle.com/sharthz23/metrics-validation-strategies-and-baselines/notebook
+https://www.kaggle.com/sharthz23/implicit-lightfm/data?select=items_preprocessed.pickle
+https://github.com/MaryIzo/GIT/tree/new_branch
+https://habr.com/ru/company/econtenta/blog/303458/
+https://www.bigdataschool.ru/blog/jvm-spark-memory-types-and-configurations.html
+
+### Рекомендательная система на коленке
+https://www.youtube.com/watch?v=NlNLtPqlCK0
+
+### recommendation system with tensor flow, ссылка из материалов цмф
+https://colab.research.google.com/github/google/eng-edu/blob/main/ml/recommendation-systems/recommendation-systems.ipynb?utm_source=ss-recommendation-systems&utm_campaign=colab-external&utm_medium=referral&utm_content=recommendation-systems
