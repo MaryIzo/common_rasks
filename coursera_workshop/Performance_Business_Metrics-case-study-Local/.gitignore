@@ -1,8 +1,7 @@
 # Byte-compiled / optimized / DLL files
-dataprep
-data
-pickle
 .ipynb_checkpoints
+.DS_Store
+data
 .github
 __pycache__/
 *.py[cod]
